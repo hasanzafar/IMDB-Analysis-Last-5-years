@@ -1,4 +1,5 @@
 # An Analysis of the IMDB Top 50 Best films from 2015 - 2019
+##### This project presents an in depth analysis for IMDB movies in the past 5 years using data from multiple sources such as IMDB website, user reviews and tweets. 
 
 ## 1 - The IMDBDataCleaningAnalysis & IMDBScraper Notebooks contain:
 ##### * IMDB list Data Scraper built using beautifulsoup
